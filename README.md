@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AronaSeye
-- 👀 I’m interested in  vos proposi de collaboratio
-- 🌱 I’m currently learning réseaux et télécommunications
-- 💞️ I’m looking to collaborate on  tous projets informatiques
+- 👀 I’m interested in  your proposals for collaboration
+- 🌱 I’m currently learning networks & telecommunications
+- 💞️ I’m looking to collaborate on  all IT projects
 - 📫 How to reach me  : aronaseye157@gmail.com  00221778105477
 
 <!---
